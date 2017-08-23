@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-retina-lite",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "background-image for retina",
   "main": "index.js",
   "repository": {
@@ -18,7 +18,7 @@
     "image",
     "gulpplugin"
   ],
-  "author": "Gavin Tang <germany213@gmail.com>, Oliver Steiner",
+  "author": "Gavin Tang <germany213@gmail.com>, Oliver Steiner <oliver@mollo.ch>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/oliversteiner/gulp-css-retina-lite/issues"
