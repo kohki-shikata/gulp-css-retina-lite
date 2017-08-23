@@ -1,11 +1,11 @@
 {
-  "name": "gulp-css-retina",
-  "version": "0.0.2",
+  "name": "gulp-css-retina-lite",
+  "version": "0.0.3",
   "description": "background-image for retina",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/germanyt/gulp-css-retina"
+    "url": "https://github.com/oliversteiner/gulp-css-retina-lite"
   },
   "engines": {
     "node": ">=0.10.0"
@@ -18,12 +18,12 @@
     "image",
     "gulpplugin"
   ],
-  "author": "Gavin Tang <germany213@gmail.com>",
+  "author": "Gavin Tang <germany213@gmail.com>, Oliver Steiner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/germanyt/gulp-css-retina/issues"
+    "url": "https://github.com/oliversteiner/gulp-css-retina-lite/issues"
   },
-  "homepage": "https://github.com/germanyt/gulp-css-retina",
+  "homepage": "https://github.com/oliversteiner/gulp-css-retina-lite",
   "dependencies": {
     "images-size": "^0.6.0",
     "object-assign": "^4.1.0",

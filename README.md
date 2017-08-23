@@ -1,12 +1,16 @@
-# gulp-css-retina
+# gulp-css-retina-lite
 background-image for retina
+
+This is a fork from [gulp-css-retina](https://github.com/germanyt/gulp-css-retina/) by germanyt.
+I have just exchanged the modul "image" with "image-size" because of better and timely support.
+
 
 ## Prerequisites
 You must have a 2x image in the folder which the original image in.
 
 ## Install
 
-`npm install gulp-css-retina`
+`npm install gulp-css-retina-lite`
 
 ## Usage
 
