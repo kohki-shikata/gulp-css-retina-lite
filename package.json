@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/germanyt/gulp-css-retina",
   "dependencies": {
-    "images": "^3.0.0",
+    "images-size": "^0.6.0",
     "object-assign": "^4.1.0",
     "postcss": "^5.0.21",
     "through2": "^2.0.1"
