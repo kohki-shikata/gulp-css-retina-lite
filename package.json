@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-retina-lite",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "background-image for retina",
   "main": "index.js",
   "repository": {
