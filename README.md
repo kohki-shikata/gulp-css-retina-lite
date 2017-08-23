@@ -16,7 +16,7 @@ You must have a 2x image in the folder which the original image in.
 
 ``` js
 var gulp = require('gulp');
-var cssRetina = require('gulp-css-retina');
+var cssRetinaLite = require('gulp-css-retina-lite');
 
 var retinaOpts = {
     // Your options here.
@@ -25,7 +25,7 @@ var retinaOpts = {
 gulp.task('css', function() {
 
   return gulp.src('./css/**/*.css')
-    .pipe(cssRetina(retinaOpts))
+    .pipe(cssRetinaLite(retinaOpts))
     .on('error', function(e) {
       console.log(e.message);
     })
