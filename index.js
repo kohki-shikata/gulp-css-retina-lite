@@ -71,7 +71,7 @@ var cssRetinaLite = function (options) {
 
           var newRule = postcss.rule({selector: decl.parent.selector});
 
-          newRule.append(sizeDecl);
+          // newRule.append(sizeDecl);
           newRule.append(backgroundImageDecl);
 
           retinaMedia.append(newRule);
